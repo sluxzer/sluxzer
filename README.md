@@ -1,16 +1,90 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sluxzer&show_icons=true"> 
+<h1 align="center">Hi 👋, I'm Taufik Hidayat</h1>
+<h3 align="center">A passionate developer from Indonesia 🇮🇩.</h3>
 
-## Hi there I'm Taufik Hidayat
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sluxzer&label=Profile%20views&color=0e75b6&style=flat" alt="sluxzer" />
+</p>
 
-[![aingcreations.com](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=white)](https://sluxzer.github.io)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=flat-square&logoColor=red)](https://www.instagram.com/taufik_hidayaat/)
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&logo=Twitter&style=flat-square&logoColor=blue)](https://twitter.com/taufik_hidayaat)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&logo=Telegram&style=flat-square&logoColor=blue)](https://t.me/sluxzer)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/taufik-hidayat-995399138/)
-[![Kaskus](https://img.shields.io/static/v1?label=Kaskus&message=%20&logo=data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAeq/qPHqv6+h6r+voeq/r6Hqv6+h6r+voeq/r6Hqv6+h6r+voeq/r6Hqv6+h6r+voeq/r6Hqv6+h6r+voeq/qAHqv6/5va/P////////////////////////////////////////////////////////////////+Q1vz/Hqv69x6r+v///////////////////////////////////////////////////////////////////////////x6r+voeq/r///////////////////////////////////////////////////////////////////////////8eq/r6Hqv6///////////////////////8+PH//Pjy//////////////////z48//8+PH///7+////////////Hqv6+h6r+v/////////////////+/vz/xYIW/8WCFv///////////+rRqP/Fghb/xYIX//ny5////////////x6r+voeq/r//////////////////v78/8WCFv/Fghb//////+rRqf/Fghb/xYMY//r17P////////////////8eq/r6Hqv6////////////5ciX/86XPf/Fghb/xYIW/8ySNf/Fghb/xYMY//v38P//////////////////////Hqv6+h6r+v///////////9epX//Olz3/xYIW/8WCFv/NkzX/xYIW/8aDGP/8+PP//////////////////////x6r+voeq/r//////////////////v78/8WCFv/Fghb//////+rSq//Fghb/xoQZ//r17f////////////////8eq/r6Hqv6//////////////////7+/P/Fghb/xYIW////////////6tGo/8WCFv/Fghf/+fLm////////////Hqv6+h6r+v///////////////////////Pjx//z48v/////////////////8+PP//Pjx///+/f///////////x6r+voeq/r///////////////////////////////////////////////////////////////////////////8eq/r6Hqv6////////////////////////////////////////////////////////////////////////////Hqv6+h6r+v9+z/z/8/r///P6///z+v//8/r///P6///z+v//8/r///P6///z+v//8/r///P6///z+v//dcv8/x6r+vceq/qcHqv6/x6r+v8eq/r/Hqv6/x6r+v8eq/r/Hqv6/x6r+v8eq/r/Hqv6/x6r+v8eq/r/Hqv6/x6r+v8eq/qMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==&style=flat-square&logoColor=blue)](https://www.kaskus.com/in/taufik-hidayat-995399138/)
+<h3 align="left">Connect with me:</h3>
 
-I am a Full Stack Developer, I like develop bot
+<p align="left">
+  <a href="https://twitter.com/taufik_hidayaat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taufik_hidayaat" height="30" width="40" />
+  <a href="https://linkedin.com/in/ini-taufik-hidayat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="initaufik" height="30" width="40" />
+  </a>
+  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
 
-- ⚙️ Stack: PHP, Laravel, Vue.js, TailwindCSS
-- 🏢 I'm currently working on some **Xylo Project**
-- 🌱 I'm currently learning about Vue.js Mobile Apps
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+  </a>
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+  </a>
+  
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+  </a>
+  
+  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sluxzer&show_icons=true&theme=nightowl&locale=en" alt="sluxzer" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sluxzer&show_icons=true&theme=nightowl&locale=en" alt="sluxzer" />
+</p>
