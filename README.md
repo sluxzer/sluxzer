@@ -47,27 +47,50 @@
             <th>Frontend</th>
             <th>Backend</th>
             <th>Database</th>
+            <th>Test</th>
             <th>DevOps</th>
         </tr>
         <tr>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/icons?i=react,vue,typescript,tailwindcss,js,html,css,bootstrap,electron,selenium&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,typescript,tailwindcss,electron,inertia,storyblok,bootstrap&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/icons?i=php,laravel,nodejs,nextjs,nuxtjs,express,nestjs&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,codeigniter,nodejs,nextjs,nuxtjs,express,nestjs&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/icons?i=mysql,sqlite,mongodb,postgres,firebase,elasticsearch&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,puppeteer&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/icons?i=nginx,jenkins,githubactions,vercel,docker" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,mongodb,postgres,sqlserver,firebase,elasticsearch,digitalocean,linux&perline=3" />
+            </td>
+            <td align="center">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,jenkins,githubactions,vercel,docker&perline=3" />
             </td>
         </tr>
     </table>
     <div align="center">
-        <h2 align="center">Tools</h2>
-        <img src="https://go-skill-icons.vercel.app/icons?i=vscode,figma,xd,ps" />
-    </div>
+    <table>
+        <tr>
+            <th>IDE</th>
+            <th>Design</th>
+            <th>Project Management</th>
+            <th>Documentation</th>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,sublime&perline=3" />
+            </td>
+            <td align="center">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,xd,photoshop,canva&perline=3" />
+            </td>
+            <td align="center">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=notion,jira&perline=3" />
+            </td>
+            <td align="center">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,swagger,storybook&perline=3" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 <br/>
