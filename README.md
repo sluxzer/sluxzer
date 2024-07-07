@@ -51,23 +51,23 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwindcss" />
+                <img src="https://go-skill-icons.vercel.app/icons?i=react,vue,typescript,tailwindcss,js,html,css,bootstrap,electron,selenium&perline=3" />
             </td>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
-                <br/>
-                <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,express,nestjs" />
+                <img src="https://go-skill-icons.vercel.app/icons?i=php,laravel,nodejs,nextjs,nuxtjs,express,nestjs&perline=3" />
             </td>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
-                <br/>
-                <img src="https://skillicons.dev/icons?i=firebase,elasticsearch" />
+                <img src="https://go-skill-icons.vercel.app/icons?i=mysql,sqlite,mongodb,postgres,firebase,elasticsearch&perline=3" />
             </td>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=nginx,jenkins,githubactions" />
+                <img src="https://go-skill-icons.vercel.app/icons?i=nginx,jenkins,githubactions,vercel,docker" />
             </td>
         </tr>
     </table>
+    <div align="center">
+        <h2 align="center">Tools</h2>
+        <img src="https://go-skill-icons.vercel.app/icons?i=vscode,figma,xd,ps" />
+    </div>
 </div>
 
 <br/>
