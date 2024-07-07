@@ -46,8 +46,8 @@
         <tr>
             <th>Frontend</th>
             <th>Backend</th>
-            <th>Database</th>
             <th>Test</th>
+            <th>Database</th>
             <th>DevOps</th>
         </tr>
         <tr>
