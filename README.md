@@ -42,12 +42,33 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+    <table>
+        <tr>
+            <th>Frontend</th>
+            <th>Backend</th>
+            <th>Database</th>
+            <th>DevOps</th>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind" />
+            </td>
+            <td align="center">
+                <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,nextjs" />
+            </td>
+            <td align="center">
+                <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+            </td>
+            <td align="center">
+                <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 <br/>
 <hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
