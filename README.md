@@ -51,16 +51,20 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind" />
+                <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwindcss" />
             </td>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,nextjs" />
+                <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+                <br/>
+                <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,express,nestjs" />
             </td>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+                <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+                <br/>
+                <img src="https://skillicons.dev/icons?i=firebase,elasticsearch" />
             </td>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+                <img src="https://skillicons.dev/icons?i=nginx,jenkins,githubactions" />
             </td>
         </tr>
     </table>
