@@ -46,25 +46,25 @@
         <tr>
             <th>Frontend</th>
             <th>Backend</th>
-            <th>Test</th>
             <th>Database</th>
             <th>DevOps</th>
+            <th>Test</th>
         </tr>
         <tr>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,typescript,tailwindcss,electron,inertia,storyblok,bootstrap&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,typescript,tailwindcss,electron,inertia,storyblok,bootstrap,chartjs&perline=3" />
             </td>
             <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,codeigniter,nodejs,nextjs,nuxtjs,express,nestjs&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,puppeteer&perline=3" />
-            </td>
-            <td align="center">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,mongodb,postgres,sqlserver,firebase,elasticsearch,digitalocean,linux&perline=3" />
             </td>
             <td align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,jenkins,githubactions,vercel,docker&perline=3" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,jenkins,githubactions,vercel,docker,cloudflare&perline=3" />
+            </td>
+            <td align="center">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,puppeteer&perline=3" />
             </td>
         </tr>
     </table>
