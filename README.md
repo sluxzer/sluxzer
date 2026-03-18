@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I've been working as Software Engineer for 7 Years (Full Stack)
+ 🔭 I've been working as Software Engineer for 8 Years (Full Stack)
  
- 🌱 I’m Expert in Laravel with 6 Year experience
+ 🌱 I’m Expert in Laravel with 8 Year experience
 
  📚 Frontend (Vue, React, Next, Nuxt, Typescript, TailwindCSS) | Backend (Laravel, CodeIgniter, PHP) | DevOps
 
@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/ini-taufik-hidayat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://sluxzer.github.io" target="_blank">
+  <a href="https://taufik-hidayat.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
